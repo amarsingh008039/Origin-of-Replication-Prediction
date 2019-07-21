@@ -1,0 +1,7 @@
+gpedit.msc
+ping
+secpol.msc
+regedit
+netstate
+prefetch
+admin password vs user password
